@@ -1,7 +1,7 @@
 
 ---
 
-### 🚀 **<p align="justify">En PredicStat, ofrecemos consultoría estadística especializada, aplicando técnicas avanzadas de computación estadística<p>**  
+### 🚀 **<p align="justify">En PredicStat, ofrecemos consultoría estadística especializada, aplicando técnicas avanzadas de computación estadística en <p>**  
 
 <table align="center">
   <tr>
