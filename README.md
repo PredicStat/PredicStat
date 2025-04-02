@@ -44,14 +44,16 @@
 ## Contactanos 
 
 <p align="left">
-  <a href="mailto:tuemail@example.com">
-    <img src="https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
-  </a>
-  <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio">
-  </a>
-  <a href="tel:+573152752557">
-    <img src="https://img.shields.io/badge/Tel%C3%A9fono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono">
-  </a>
+  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+  tuemail@example.com
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio">
+  www.tuportafolio.com
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono">
+  +123 456 789
+</p>
