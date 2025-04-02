@@ -1,12 +1,11 @@
 
 ---
 
-### 🚀 **<p align="justify">En PredicStat, transformamos datos en estrategias inteligentes. Somos una consultora estadística especializada en el desarrollo de<p>**  
+### 🚀 **<p align="justify">En PredicStat, ofrecemos consultoría estadística especializada, aplicando técnicas avanzadas de computación estadística<p>**  
 
 <table align="center">
   <tr>
     <td align="center">📈 <strong>Procesos Estocásticos</strong></td>
-    <td align="center">🔍 <strong>Computación Estadística</strong></td>
     <td align="center">⏳ <strong>Series de Tiempo</strong></td>
   </tr>
   <tr>
