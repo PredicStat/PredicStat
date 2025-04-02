@@ -1,6 +1,6 @@
 <p align="center">
-  📊 <strong>Estadístico apasionado por los datos</strong> 📊 <br>
-  Ayudando a convertir datos en decisiones estratégicas con modelos estadísticos avanzados.
+  📊 <strong>Estadístico especializado en transformar datos en decisiones estratégicas .</strong> 📊 <br>
+   
 </p>
 
 ---
