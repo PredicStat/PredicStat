@@ -1,10 +1,4 @@
-<p align="center">
-  📊 <strong>Estadístico especializado en transformar datos en decisiones estratégicas .</strong> 📊 <br>
-   
-</p>
-
 ---
-
 ## 🧠 Sobre mí  
 
 ✨ Me especializo en:  
@@ -37,32 +31,23 @@
 
 ## 📩 ¡Contáctame!  
 
----
-
-## 📩 ¡Contáctame!  
-
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email logo" />
-  <strong>Correo:</strong>  
-  <a href="mailto:TuCorreo@example.com">TuCorreo@example.com</a>
+  <strong></strong>  
+  <a href="mailto:TuCorreo@example.com">joanurpa02@gmail.com</a>
 </p>
 
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/888/888848.png" height="30" alt="Portafolio logo" />
-  <strong>Portafolio:</strong>  
-  <a href="https://www.predicstat.com">www.predicstat.com</a>
+  <strong></strong>  
+  <a href="https://www.predicstat.com">www.predicstat.github.io</a>
 </p>
 
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="30" alt="Teléfono logo" />
-  <strong>Teléfono:</strong>  
-  +XX XXX XXX XXXX
+  <strong></strong>  
+  +57 315 275 2557
 </p>
-
----
-
-🚀 **¡Listo para analizar datos, modelar procesos y ofrecer soluciones estadísticas de alto impacto!**
-
 
 
 
