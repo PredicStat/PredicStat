@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://www.r-project.org/Rlogo.png" height="40" alt="R logo" />
   <img width="12" />
-  <img src="[https://logodix.com/logo/1190402.png](https://github.com/PredicStat/PredicStat/blob/main/Minitab.png)" height="40" alt="Minitab logo" />
+  <img src="https://github.com/PredicStat/PredicStat/blob/main/Minitab.png?raw=true" height="40" alt="Minitab logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
