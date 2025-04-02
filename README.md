@@ -30,25 +30,5 @@
 
 ---
 
-## 📩 ¡Contáctame!  
-
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email logo" />
-  <strong></strong>  
-  <a href="mailto:TuCorreo@example.com">joanurpa02@gmail.com</a>
-</p>
-
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888848.png" height="30" alt="Portafolio logo" />
-  <strong></strong>  
-  <a href="https://www.predicstat.com">www.predicstat.github.io</a>
-</p>
-
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="30" alt="Teléfono logo" />
-  <strong></strong>  
-  +57 315 275 2557
-</p>
-
 
 
