@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td align="center">📈 <strong>Procesos Estocásticos</strong></td>
-    <td align="center">🔍 <strong>Análisis de Datos</strong></td>
+    <td align="center">🔍 <strong>Computación Estadística</strong></td>
     <td align="center">⏳ <strong>Series de Tiempo</strong></td>
   </tr>
   <tr>
