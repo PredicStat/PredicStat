@@ -37,26 +37,31 @@
 
 ## 📩 ¡Contáctame!  
 
+---
+
+## 📩 ¡Contáctame!  
+
 <p align="left">
-  📧 <strong>Correo:</strong>  
-  <a href="mailto:joanurpa02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email logo" />
+  <strong>Correo:</strong>  
+  <a href="mailto:TuCorreo@example.com">TuCorreo@example.com</a>
 </p>
 
 <p align="left">
-  🌐 <strong>Portafolio:</strong>  
-  <a href="https://www.predicstat.github.io">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio">
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888848.png" height="30" alt="Portafolio logo" />
+  <strong>Portafolio:</strong>  
+  <a href="https://www.predicstat.com">www.predicstat.com</a>
 </p>
 
 <p align="left">
-  📞 <strong>Teléfono:</strong>  
-  <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono">
-  +57 315 275 2557
+  <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" height="30" alt="Teléfono logo" />
+  <strong>Teléfono:</strong>  
+  +XX XXX XXX XXXX
 </p>
 
+---
+
+🚀 **¡Listo para analizar datos, modelar procesos y ofrecer soluciones estadísticas de alto impacto!**
 
 
 
