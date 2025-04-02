@@ -2,6 +2,7 @@
 
 ## 🧠 Sobre mí  
 
+Soy estadístico con experiencia en procesos estocásticos, análisis de datos y modelado estadístico. Me especializo en transformar datos en información valiosa para la toma de decisiones, utilizando herramientas y técnicas avanzadas de análisis.
 ✨ Me especializo en:  
 ✔ **Procesos estocásticos** 📈  
 ✔ **Análisis de datos** 🔍  
