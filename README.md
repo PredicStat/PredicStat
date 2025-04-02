@@ -1,6 +1,6 @@
 
 <p align="left">
-  <strong>Estadístico con experiencia en análisis de datos, procesos estocásticos y modelado estadístico. Apasionado por convertir datos en información valiosa para la toma de decisiones estratégicas.</strong><br>
+  <strong>En PredicStat, transformamos datos en estrategias inteligentes. Somos una consultora estadística especializada en análisis de datos, modelado predictivo y optimización de decisiones. Nos enfocamos en aplicar herramientas avanzadas de estadística y ciencia de datos para resolver problemas del mundo real en diversas industrias.</strong><br>
    
 </p>
 
