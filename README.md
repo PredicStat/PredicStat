@@ -6,6 +6,7 @@
 <table align="center">
   <tr>
     <td align="center">📈 <strong>Procesos Estocásticos</strong></td>
+    <td align="center">⏳ <strong>Diseño y desarrollo de encuestas</strong></td>
     <td align="center">⏳ <strong>Series de Tiempo</strong></td>
   </tr>
   <tr>
