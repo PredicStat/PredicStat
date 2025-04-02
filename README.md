@@ -1,6 +1,6 @@
 
 <p align="left">
-  <strong>En PredicStat, transformamos datos en estrategias inteligentes. Somos una consultora estadística especializada en análisis de datos, modelado predictivo y optimización de decisiones. Nos enfocamos en aplicar herramientas avanzadas de estadística y ciencia de datos para resolver problemas del mundo real en diversas industrias.</strong><br>
+  <strong><p align="justify">En PredicStat, transformamos datos en estrategias inteligentes. Somos una consultora estadística especializada en análisis de datos, modelado predictivo y optimización de decisiones. Nos enfocamos en aplicar herramientas avanzadas de estadística y ciencia de datos para resolver problemas del mundo real en diversas industrias.</p></strong><br>
 
    
 </p>
