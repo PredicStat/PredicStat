@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://www.r-project.org/Rlogo.png" height="40" alt="R logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Minitab-logo.png" height="40" alt="Minitab logo" />
+  <img src="https://logodix.com/logo/1190402.png" height="40" alt="Minitab logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
