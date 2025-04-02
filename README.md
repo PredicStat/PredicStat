@@ -43,4 +43,4 @@
 ---
 
 ## Contactanos 
-<p align="center"> <a href="mailto:tuemail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://wa.me/123456789"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://www.tuportafolio.com"> <img src="https://img.shields.io/badge/Portafolio-1E90FF?style=for-the-badge&logo=Google%20Chrome&logoColor=white"/> </a> </p>
+<p align="left"> <a href="mailto:tuemail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://wa.me/123456789"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://www.tuportafolio.com"> <img src="https://img.shields.io/badge/Portafolio-1E90FF?style=for-the-badge&logo=Google%20Chrome&logoColor=white"/> </a> </p>
