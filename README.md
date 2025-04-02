@@ -1,8 +1,8 @@
 <h1 align="center">📊 Transformando Datos en Decisiones 📊</h1>
 
-<p align="right">
-  <strong>Estadístico con experiencia en análisis de datos, procesos estocásticos y modelado estadístico.</strong><br>
-  Apasionado por convertir datos en información valiosa para la toma de decisiones estratégicas. 
+<p align="left">
+  <strong>Estadístico con experiencia en análisis de datos, procesos estocásticos y modelado estadístico. Apasionado por convertir datos en información valiosa para la toma de decisiones estratégicas.</strong><br>
+   
 </p>
 
 ---
