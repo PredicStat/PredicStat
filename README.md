@@ -19,9 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/RStudio-Logo.svg" height="40" alt="RStudio logo" />
+  <img src="https://www.r-project.org/Rlogo.png" height="40" alt="R logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Minitab_Logo.png" height="40" alt="Minitab logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Minitab-logo.png" height="40" alt="Minitab logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
@@ -29,6 +29,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="40" alt="LaTeX logo" />
 </div>
+
 
 ###
 
