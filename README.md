@@ -1,7 +1,7 @@
 
 ---
 
-### 🚀 **En PredicStat, transformamos datos en estrategias inteligentes. Somos una consultora estadística especializada en**  
+### 🚀 **<p align="justify">En PredicStat, transformamos datos en estrategias inteligentes. Somos una consultora estadística especializada en<p>**  
 
 <table align="center">
   <tr>
