@@ -42,18 +42,17 @@
 ---
 
 ## Contactanos 
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
-  tuemail@example.com
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20" alt="Gmail logo"/>  
+  **Correo:** tuemail@example.com  
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio">
-  www.tuportafolio.com
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="20" alt="Web logo"/>  
+  **Portafolio:** www.tuportafolio.com  
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono">
-  +123 456 789
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="20" alt="WhatsApp logo"/>  
+  **Teléfono:** +123 456 789  
 </p>
