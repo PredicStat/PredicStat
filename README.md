@@ -1,15 +1,26 @@
+<h1 align="center">📊 Transformando Datos en Decisiones 📊</h1>
 
+<p align="center">
+  <strong>Estadístico con experiencia en análisis de datos, procesos estocásticos y modelado estadístico.</strong><br>
+  Apasionado por convertir datos en información valiosa para la toma de decisiones estratégicas. 
+</p>
 
-## 🧠 Sobre mí  
+---
 
-Soy estadístico con experiencia en procesos estocásticos, análisis de datos y modelado estadístico. Me especializo en transformar datos en información valiosa para la toma de decisiones, utilizando herramientas y técnicas avanzadas de análisis.
-✨ Me especializo en:  
-✔ **Procesos estocásticos** 📈  
-✔ **Análisis de datos** 🔍  
-✔ **Series de tiempo** ⏳  
-✔ **Modelos de regresión** 📊  
-✔ **Diseño de experimentos** 🧪  
-✔ **Análisis multivariado** 🏆  
+## 🚀 **Áreas de Especialización**  
+
+<table align="center">
+  <tr>
+    <td align="center">📈 <strong>Procesos Estocásticos</strong></td>
+    <td align="center">🔍 <strong>Análisis de Datos</strong></td>
+    <td align="center">⏳ <strong>Series de Tiempo</strong></td>
+  </tr>
+  <tr>
+    <td align="center">📊 <strong>Modelos de Regresión</strong></td>
+    <td align="center">🧪 <strong>Diseño de Experimentos</strong></td>
+    <td align="center">🏆 <strong>Análisis Multivariado</strong></td>
+  </tr>
+</table> 
 
 💡 **Brindo asesorías y consultorías** para proyectos estadísticos, investigaciones y aplicaciones de modelado avanzado.
 
